@@ -11,13 +11,8 @@
 <h1>Skills</h1>
       <h2>Skills & Attributes</h2>
       <p>
-        I can use the skills listed below, and I am willing to learn skills that I don't know, <br>
+        I can use the skills listed below, and I am willing to learn skills that I don't know,
         and I am confident that I can share skills with many people and continue to study alone.
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
 
 <div align=display = "flex">
 
