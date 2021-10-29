@@ -5,8 +5,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
-<h1>Hello, <br>I'm Park chul hyun </h1>
-      <h2>A person running toward a UX-UI designer in Gimpo, Korea.</h2>
+<h1>Hello, I'm Park chul hyun </h1>
+      <p>A person running toward a UX-UI designer in Gimpo, Korea.</p>
       
 <h1>Skills</h1>
       <h2>Skills & Attributes</h2>
