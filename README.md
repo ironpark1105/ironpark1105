@@ -5,11 +5,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
-
-### Machine Learning Engineer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-
+<h1>Skills</h1>
+      <h2>Skills & Attributes</h2>
+      <p>
+        I can use the skills listed below, and I am willing to learn skills that I don't know, <br>
+        and I am confident that I can share skills with many people and continue to study alone.
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Google Cloud Platform(Especially, BigQuery)
