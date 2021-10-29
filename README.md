@@ -17,7 +17,6 @@
 - Leadership, Mentoring, Writing, Presentation
 
 <div align=display = "flex">
-<div>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100003482239159) 
   
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/iron_park_design/) 
