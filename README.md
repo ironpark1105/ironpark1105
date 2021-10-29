@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Facebook-3DDC84?style=flat-square&logo=Facebook&logoColor=#1877F2"/>
+<img src="https://img.shields.io/badge/Facebook-#1877F2?style=flat-square&logo=Facebook&logoColor=#1877F2"/>
 
 
 
