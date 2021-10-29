@@ -9,7 +9,7 @@
       <p>A person running toward a UX-UI designer in Gimpo, Korea.</p>
       
 <h1>Skills</h1>
-      <h2>Skills & Attributes</h2>
+      <p>Skills & Attributes</p>
       <p>
         I can use the skills listed below, and I am willing to learn skills that I don't know,
         and I am confident that I can share skills with many people and continue to study alone.
