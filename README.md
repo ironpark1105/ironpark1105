@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Facebook-#1877F2?style=flat-square&logo=Facebook&logoColor=#1877F2"/>
-
-
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 
 <!--
 **ironpark1105/ironpark1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
